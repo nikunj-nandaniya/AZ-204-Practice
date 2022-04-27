@@ -1,0 +1,7 @@
+C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.exe
+C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.dll
+C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.deps.json
+C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.runtimeconfig.json
+C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.pdb
