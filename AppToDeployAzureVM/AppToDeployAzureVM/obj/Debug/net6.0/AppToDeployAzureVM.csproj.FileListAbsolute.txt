@@ -24,3 +24,29 @@ C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net
 C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.pdb
 C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.genruntimeconfig.cache
 C:\Users\Nikunj\source\repos\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\ref\AppToDeployAzureVM.dll
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\bin\Debug\net6.0\appsettings.Development.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\bin\Debug\net6.0\appsettings.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\bin\Debug\net6.0\AppToDeployAzureVM.staticwebassets.runtime.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\bin\Debug\net6.0\AppToDeployAzureVM.exe
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\bin\Debug\net6.0\AppToDeployAzureVM.deps.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\bin\Debug\net6.0\AppToDeployAzureVM.runtimeconfig.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\bin\Debug\net6.0\AppToDeployAzureVM.dll
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\bin\Debug\net6.0\AppToDeployAzureVM.pdb
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.csproj.AssemblyReference.cache
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.GeneratedMSBuildEditorConfig.editorconfig
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.AssemblyInfoInputs.cache
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.AssemblyInfo.cs
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.csproj.CoreCompileInputs.cache
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.MvcApplicationPartsAssemblyInfo.cache
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.RazorAssemblyInfo.cache
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.RazorAssemblyInfo.cs
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\staticwebassets.build.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\staticwebassets.development.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\scopedcss\bundle\AppToDeployAzureVM.styles.css
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\scopedcss\projectbundle\AppToDeployAzureVM.bundle.scp.css
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.dll
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\refint\AppToDeployAzureVM.dll
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.pdb
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\AppToDeployAzureVM.genruntimeconfig.cache
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Debug\net6.0\ref\AppToDeployAzureVM.dll

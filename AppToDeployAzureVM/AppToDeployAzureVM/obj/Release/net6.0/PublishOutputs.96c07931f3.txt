@@ -1,0 +1,7 @@
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.exe
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\appsettings.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.dll
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.deps.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.runtimeconfig.json
+G:\Azure Practice\AZ-204-Practice\AppToDeployAzureVM\AppToDeployAzureVM\obj\Release\net6.0\PubTmp\Out\AppToDeployAzureVM.pdb

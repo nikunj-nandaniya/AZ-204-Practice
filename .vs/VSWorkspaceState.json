@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AppToDeployAzureVM",
+    "\\AppToDeployAzureVM\\AppToDeployAzureVM",
+    "\\AppToDeployAzureVM\\AppToDeployAzureVM\\Views",
+    "\\AppToDeployAzureVM\\AppToDeployAzureVM\\Views\\Home",
+    "\\Screen Shots"
   ],
+  "SelectedNode": "\\AppToDeployAzureVM\\AppToDeployAzureVM\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xl6dmqEYOdMh1W1BPxvyaac7TDL6+FCb1RyyLbSoRL9ITY2mIR8UdfdJZTNnGBfrDyPHfdLc/Fdg4GdJRR2s5A==",
+  "dgSpecHash": "AEbPKhYlY56wXNI9kzQvnnsW5DoFNJ2d3URyxGgUogfjMJI4YOLwslt7nbgJSjAG8G60FVJaMQyVYGN+ZCLgZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikunj\\source\\repos\\AppToDeployAzureVM\\AppToDeployAzureVM\\AppToDeployAzureVM.csproj",
+  "projectFilePath": "G:\\Azure Practice\\AZ-204-Practice\\AppToDeployAzureVM\\AppToDeployAzureVM\\AppToDeployAzureVM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

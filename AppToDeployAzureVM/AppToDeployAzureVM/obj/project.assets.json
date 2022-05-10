@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikunj\\source\\repos\\AppToDeployAzureVM\\AppToDeployAzureVM\\AppToDeployAzureVM.csproj",
+      "projectUniqueName": "G:\\Azure Practice\\AZ-204-Practice\\AppToDeployAzureVM\\AppToDeployAzureVM\\AppToDeployAzureVM.csproj",
       "projectName": "AppToDeployAzureVM",
-      "projectPath": "C:\\Users\\Nikunj\\source\\repos\\AppToDeployAzureVM\\AppToDeployAzureVM\\AppToDeployAzureVM.csproj",
+      "projectPath": "G:\\Azure Practice\\AZ-204-Practice\\AppToDeployAzureVM\\AppToDeployAzureVM\\AppToDeployAzureVM.csproj",
       "packagesPath": "C:\\Users\\Nikunj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikunj\\source\\repos\\AppToDeployAzureVM\\AppToDeployAzureVM\\obj\\",
+      "outputPath": "G:\\Azure Practice\\AZ-204-Practice\\AppToDeployAzureVM\\AppToDeployAzureVM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikunj\\AppData\\Roaming\\NuGet\\NuGet.Config",

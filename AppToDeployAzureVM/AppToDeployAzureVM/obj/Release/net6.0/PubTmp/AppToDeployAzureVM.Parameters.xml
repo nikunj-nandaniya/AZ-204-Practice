@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="Default Web Site" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Nikunj\\source\\repos\\AppToDeployAzureVM\\AppToDeployAzureVM\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="nikswebapp007" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^G:\\Azure\ Practice\\AZ-204-Practice\\AppToDeployAzureVM\\AppToDeployAzureVM\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
