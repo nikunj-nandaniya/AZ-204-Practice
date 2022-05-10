@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\AppToDeployAzureVM",
-    "\\AppToDeployAzureVM\\AppToDeployAzureVM",
-    "\\AppToDeployAzureVM\\AppToDeployAzureVM\\Views",
-    "\\AppToDeployAzureVM\\AppToDeployAzureVM\\Views\\Home",
-    "\\Screen Shots"
+    "\\Screen Shots",
+    "\\Screen Shots\\Azure Web App",
+    "\\Screen Shots\\CLI Commands",
+    "\\Screen Shots\\CLI Commands\\Create VM"
   ],
-  "SelectedNode": "\\AppToDeployAzureVM\\AppToDeployAzureVM\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\AppToDeployAzureVM\\AppToDeployAzureVM.sln",
   "PreviewInSolutionExplorer": false
 }
