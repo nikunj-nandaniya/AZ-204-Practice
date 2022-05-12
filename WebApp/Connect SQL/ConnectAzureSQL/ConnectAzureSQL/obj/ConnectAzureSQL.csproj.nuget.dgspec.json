@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Azure Practice\\AZ-204-Practice\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\ConnectAzureSQL.csproj": {}
+    "D:\\Azure Repo\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\ConnectAzureSQL.csproj": {}
   },
   "projects": {
-    "G:\\Azure Practice\\AZ-204-Practice\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\ConnectAzureSQL.csproj": {
+    "D:\\Azure Repo\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\ConnectAzureSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Azure Practice\\AZ-204-Practice\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\ConnectAzureSQL.csproj",
+        "projectUniqueName": "D:\\Azure Repo\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\ConnectAzureSQL.csproj",
         "projectName": "ConnectAzureSQL",
-        "projectPath": "G:\\Azure Practice\\AZ-204-Practice\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\ConnectAzureSQL.csproj",
+        "projectPath": "D:\\Azure Repo\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\ConnectAzureSQL.csproj",
         "packagesPath": "C:\\Users\\Nikunj\\.nuget\\packages\\",
-        "outputPath": "G:\\Azure Practice\\AZ-204-Practice\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\obj\\",
+        "outputPath": "D:\\Azure Repo\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikunj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Azure.Data.AppConfiguration": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.Azure.AppConfiguration.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.FeatureManagement.AspNetCore": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "Microsoft.WindowsAzure.ConfigurationManager": {
+              "target": "Package",
+              "version": "[3.2.3, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.3, )"
@@ -63,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

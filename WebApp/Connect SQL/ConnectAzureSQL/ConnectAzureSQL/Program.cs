@@ -1,9 +1,20 @@
 using ConnectAzureSQL.Services;
+using Microsoft.FeatureManagement;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddHealthChecks();
 builder.Services.AddControllersWithViews();
+builder.Services.AddFeatureManagement();
+
 builder.Services.AddTransient<CourseService>();
+
+builder.Configuration.AddAzureAppConfiguration("Endpoint=https://appconfignik.azconfig.io;Id=FjkZ-lae-s0:BI6YAlRVsHUK4vAlXPz5;Secret=6Bz5FHY2nkhJCUB0zuZBViPQdNgTbYckDna1n8GYtvE=");
+
+builder.Configuration.AddAzureAppConfiguration(options =>
+                     options.Connect("Endpoint=https://appconfignik.azconfig.io;Id=FjkZ-lae-s0:BI6YAlRVsHUK4vAlXPz5;Secret=6Bz5FHY2nkhJCUB0zuZBViPQdNgTbYckDna1n8GYtvE=").UseFeatureFlags());
+
+
+
 
 var app = builder.Build();
 

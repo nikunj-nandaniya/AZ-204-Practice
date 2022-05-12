@@ -1,17 +1,31 @@
 ﻿@model IEnumerable<ConnectAzureSQL.Models.Course>
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+@using ConnectAzureSQL
+@using ConnectAzureSQL.Models
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, Microsoft.FeatureManagement.AspNetCore
+
+
 @{
     ViewData["Title"] = "Home page";
 }
 <head>
-    
-
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
 <div class="text-center">
+    <h1 class="display-4">The name of the database is @Configuration["demoapp:Settings:dbname"]</h1>
     <h1 class="display-4">This is a list of services of courses</h1>
 
 </div>
+
+  <feature name="staging">
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Staging" asp-action="Index">Staging</a>
+    </li>
+</feature>   
 
 <div>
     <table class="table" table-dark">

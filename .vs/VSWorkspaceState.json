@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AppToDeployAzureVM",
-    "\\Screen Shots",
     "\\Screen Shots\\Azure Web App",
-    "\\Screen Shots\\CLI Commands",
-    "\\Screen Shots\\CLI Commands\\Create VM"
+    "\\WebApp",
+    "\\WebApp\\Connect SQL",
+    "\\WebApp\\Connect SQL\\ConnectAzureSQL",
+    "\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL"
   ],
-  "SelectedNode": "\\AppToDeployAzureVM\\AppToDeployAzureVM.sln",
+  "SelectedNode": "\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
