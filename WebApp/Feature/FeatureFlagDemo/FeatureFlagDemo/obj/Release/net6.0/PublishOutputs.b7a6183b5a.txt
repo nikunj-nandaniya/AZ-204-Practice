@@ -1,0 +1,17 @@
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\FeatureFlagDemo.exe
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\FeatureFlagDemo.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\FeatureFlagDemo.deps.json
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\FeatureFlagDemo.runtimeconfig.json
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\FeatureFlagDemo.pdb
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Azure.Data.AppConfiguration.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Azure.Messaging.EventGrid.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Azure.Security.KeyVault.Secrets.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.FeatureManagement.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.FeatureManagement.AspNetCore.dll
+D:\Azure Repo\WebApp\Feature\FeatureFlagDemo\FeatureFlagDemo\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll

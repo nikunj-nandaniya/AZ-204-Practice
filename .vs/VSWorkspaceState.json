@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Screen Shots\\Azure Web App",
-    "\\WebApp",
-    "\\WebApp\\Connect SQL",
-    "\\WebApp\\Connect SQL\\ConnectAzureSQL",
-    "\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL"
+    "\\AzureStorageAccount",
+    "\\AzureStorageAccount\\BlobService\\BlobService\\BlobService",
+    "\\AzureStorageAccount\\CreateContainerWithCode",
+    "\\AzureStorageAccount\\Queue Service\\StorageQueueFunction\\Properties",
+    "\\AzureStorageAccount\\Table Service\\TableService",
+    "\\AzureStorageAccount\\Table Service\\TableService\\TableService",
+    "\\CosmosDB\\CosmosDBFunction",
+    "\\WebApp\\Feature",
+    "\\WebApp\\Feature\\FeatureFlagDemo",
+    "\\WebApp\\Feature\\FeatureFlagDemo\\FeatureFlagDemo"
   ],
-  "SelectedNode": "\\WebApp\\Connect SQL\\ConnectAzureSQL\\ConnectAzureSQL\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

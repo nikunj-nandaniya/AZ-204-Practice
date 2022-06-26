@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "doPPH3aPB9/KDsTr8zqdxqOErDc1HbKB+nQH31A/4WY=",
+  "Source": "ConnectAzureSQL",
+  "BasePath": "_content/ConnectAzureSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

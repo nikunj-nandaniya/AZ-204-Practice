@@ -1,0 +1,34 @@
+//First create the shared access signature
+
+// To create a container
+azcopy make "https://niksstorageaccount.blob.core.windows.net/data?sv=2020-08-04&ss=b&srt=sco&sp=rwlacitfx&se=2022-05-19T20:32:37Z&st=2022-05-19T12:32:37Z&spr=https&sig=uw13Oy7tQdlCvcc7GOhxxB57mb%2FcYtY4Iw9vhRcWxOg%3D
+
+https://niksstorageaccount.blob.core.windows.net
+
+// To upload a file
+
+azcopy copy BlobTesting.Txt "https://niksstorageaccount.blob.core.windows.net/data/BlobTesting.Txt?sv=2020-08-04&ss=b&srt=sco&sp=rwlacitfx&se=2022-05-19T20:32:37Z&st=2022-05-19T12:32:37Z&spr=https&sig=uw13Oy7tQdlCvcc7GOhxxB57mb%2FcYtY4Iw9vhRcWxOg%3D
+
+// To upload a directory
+
+azcopy copy "newdir/*" "https://niksstorageaccount.blob.core.windows.net/data?sv=2020-08-04&ss=b&srt=sco&sp=rwlacitfx&se=2022-05-19T20:32:37Z&st=2022-05-19T12:32:37Z&spr=https&sig=uw13Oy7tQdlCvcc7GOhxxB57mb%2FcYtY4Iw9vhRcWxOg%3D
+
+// To upload a directory to a directory in the container
+
+azcopy copy "newdir/*" "https://niksstorageaccount.blob.core.windows.net/data/newdir?sv=2020-08-04&ss=b&srt=sco&sp=rwlacitfx&se=2022-05-19T20:55:50Z&st=2022-05-19T12:55:50Z&spr=https&sig=6OxE5ViXx5CizYTRgwZ9XqmWxIPvKjKZwOfSsnDpqM8%3D
+
+// To upload a directory and subdirectories to a directory in the container
+
+azcopy copy "newdir/*" "https://niksstorageaccount.blob.core.windows.net/data/newdir?sv=2020-08-04&ss=b&srt=sco&sp=rwlacitfx&se=2022-05-19T20:55:50Z&st=2022-05-19T12:55:50Z&spr=https&sig=6OxE5ViXx5CizYTRgwZ9XqmWxIPvKjKZwOfSsnDpqM8%3D" --recursive
+
+
+// Download blob data
+azcopy copy "https://niksstorageaccount.blob.core.windows.net/data/newdir/BlobTesting.txt?sv=2020-08-04&ss=b&srt=sco&sp=rwlacitfx&se=2022-05-19T20:55:50Z&st=2022-05-19T12:55:50Z&spr=https&sig=6OxE5ViXx5CizYTRgwZ9XqmWxIPvKjKZwOfSsnDpqM8%3D" "BlobTesting.txt"
+
+azcopy copy "https://niksstorageaccount.blob.core.windows.net/data?sv=2020-02-10&ss=b&srt=sco&sp=rwlac&se=2021-04-11T19:00:45Z&st=2021-04-11T11:00:45Z&spr=https&sig=uOmamD7oyg1Rhc95P1OkcMttFLtignu6FLcvJkXr%2F1w%3D" "."  --recursive
+
+// copy data between two storage accounts
+
+azcopy copy "https://niksstorageaccount.blob.core.windows.net/data?sv=2020-08-04&ss=b&srt=sco&sp=rwlacitfx&se=2022-05-19T21:54:03Z&st=2022-05-19T13:54:03Z&spr=https&sig=pxHWwWrDqkuG%2F%2F13TynqIkJei9KdQijig8i8frZaAK0%3D" "https://destinationstor100.blob.core.windows.net/data?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwlacutfx&se=2022-05-19T21:52:59Z&st=2022-05-19T13:52:59Z&spr=https&sig=3QHX%2F%2FFvtyPUdZNPsE4aOi1UzD5JwmyZ2whsiSnL5q4%3D" --recursive
+
+
