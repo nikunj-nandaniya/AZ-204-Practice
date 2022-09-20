@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\AzureStorageAccount",
-    "\\AzureStorageAccount\\BlobService\\BlobService\\BlobService",
-    "\\AzureStorageAccount\\CreateContainerWithCode",
-    "\\AzureStorageAccount\\Queue Service\\StorageQueueFunction\\Properties",
-    "\\AzureStorageAccount\\Table Service\\TableService",
-    "\\AzureStorageAccount\\Table Service\\TableService\\TableService",
-    "\\CosmosDB\\CosmosDBFunction",
-    "\\WebApp\\Feature",
-    "\\WebApp\\Feature\\FeatureFlagDemo",
-    "\\WebApp\\Feature\\FeatureFlagDemo\\FeatureFlagDemo"
+    ""
   ],
+  "SelectedNode": "\\C:\\Users\\C279655\\Source\\Repos\\AZ-204-Practice",
   "PreviewInSolutionExplorer": false
 }

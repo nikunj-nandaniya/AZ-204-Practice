@@ -8,17 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConnectAzureSQLUsingFunction
 build_property.RootNamespace = ConnectAzureSQLUsingFunction
-build_property.ProjectDir = E:\Azure Repo\Azure Functions\ConnectAzureSQLUsingFunction\ConnectAzureSQL\
+build_property.ProjectDir = C:\Users\C279655\Source\Repos\AZ-204-Practice\Azure Functions\ConnectAzureSQLUsingFunction\ConnectAzureSQL\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Azure Repo\Azure Functions\ConnectAzureSQLUsingFunction\ConnectAzureSQL
+build_property.MSBuildProjectDirectory = C:\Users\C279655\Source\Repos\AZ-204-Practice\Azure Functions\ConnectAzureSQLUsingFunction\ConnectAzureSQL
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Azure Repo/Azure Functions/ConnectAzureSQLUsingFunction/ConnectAzureSQL/Views/Course/Index.cshtml]
+[C:/Users/C279655/Source/Repos/AZ-204-Practice/Azure Functions/ConnectAzureSQLUsingFunction/ConnectAzureSQL/Views/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Azure Repo/Azure Functions/ConnectAzureSQLUsingFunction/ConnectAzureSQL/Views/Staging/Index.cshtml]
+[C:/Users/C279655/Source/Repos/AZ-204-Practice/Azure Functions/ConnectAzureSQLUsingFunction/ConnectAzureSQL/Views/Staging/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZ2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
