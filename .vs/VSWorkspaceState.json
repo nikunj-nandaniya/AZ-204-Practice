@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ServiceBus"
   ],
-  "SelectedNode": "\\C:\\Users\\C279655\\Source\\Repos\\AZ-204-Practice",
+  "SelectedNode": "\\ServiceBus\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

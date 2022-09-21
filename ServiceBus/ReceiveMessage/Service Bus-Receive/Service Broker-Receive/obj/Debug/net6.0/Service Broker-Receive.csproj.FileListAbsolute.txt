@@ -1,0 +1,22 @@
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Service Broker-Receive.exe
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Service Broker-Receive.deps.json
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Service Broker-Receive.runtimeconfig.json
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Service Broker-Receive.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Service Broker-Receive.pdb
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.csproj.AssemblyReference.cache
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.AssemblyInfoInputs.cache
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.AssemblyInfo.cs
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.csproj.CoreCompileInputs.cache
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.csproj.CopyComplete
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\refint\Service Broker-Receive.dll
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.pdb
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\Service Broker-Receive.genruntimeconfig.cache
+C:\Users\C279655\source\repos\AZ-204-Practice\ServiceBus\ReceiveMessage\Service Broker-Receive\Service Broker-Receive\obj\Debug\net6.0\ref\Service Broker-Receive.dll
