@@ -1,0 +1,22 @@
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Service Bus-Receive.exe
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Service Bus-Receive.deps.json
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Service Bus-Receive.runtimeconfig.json
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Service Bus-Receive.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Service Bus-Receive.pdb
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Azure.Core.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Azure.Core.Amqp.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.csproj.AssemblyReference.cache
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.GeneratedMSBuildEditorConfig.editorconfig
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.AssemblyInfoInputs.cache
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.AssemblyInfo.cs
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.csproj.CoreCompileInputs.cache
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.csproj.CopyComplete
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\refint\Service Bus-Receive.dll
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.pdb
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\Service Bus-Receive.genruntimeconfig.cache
+E:\Azure Repo\ServiceBus\ReceiveMessage\Service Bus-Receive\Service Bus-Receive\obj\Debug\net6.0\ref\Service Bus-Receive.dll

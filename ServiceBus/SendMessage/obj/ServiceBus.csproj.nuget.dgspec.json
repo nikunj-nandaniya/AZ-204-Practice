@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C279655\\Source\\Repos\\AZ-204-Practice\\ServiceBus\\ServiceBus.csproj": {}
+    "E:\\Azure Repo\\ServiceBus\\SendMessage\\ServiceBus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C279655\\Source\\Repos\\AZ-204-Practice\\ServiceBus\\ServiceBus.csproj": {
+    "E:\\Azure Repo\\ServiceBus\\SendMessage\\ServiceBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C279655\\Source\\Repos\\AZ-204-Practice\\ServiceBus\\ServiceBus.csproj",
+        "projectUniqueName": "E:\\Azure Repo\\ServiceBus\\SendMessage\\ServiceBus.csproj",
         "projectName": "ServiceBus",
-        "projectPath": "C:\\Users\\C279655\\Source\\Repos\\AZ-204-Practice\\ServiceBus\\ServiceBus.csproj",
-        "packagesPath": "C:\\Users\\C279655\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C279655\\Source\\Repos\\AZ-204-Practice\\ServiceBus\\obj\\",
+        "projectPath": "E:\\Azure Repo\\ServiceBus\\SendMessage\\ServiceBus.csproj",
+        "packagesPath": "C:\\Users\\Nikunj\\.nuget\\packages\\",
+        "outputPath": "E:\\Azure Repo\\ServiceBus\\SendMessage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\C279655\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nikunj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

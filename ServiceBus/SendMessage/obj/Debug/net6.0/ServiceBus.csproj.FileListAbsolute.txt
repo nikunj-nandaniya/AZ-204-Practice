@@ -42,3 +42,25 @@ C:\Users\C279655\Source\Repos\AZ-204-Practice\ServiceBus\obj\Debug\net6.0\refint
 C:\Users\C279655\Source\Repos\AZ-204-Practice\ServiceBus\obj\Debug\net6.0\ServiceBus.pdb
 C:\Users\C279655\Source\Repos\AZ-204-Practice\ServiceBus\obj\Debug\net6.0\ServiceBus.genruntimeconfig.cache
 C:\Users\C279655\Source\Repos\AZ-204-Practice\ServiceBus\obj\Debug\net6.0\ref\ServiceBus.dll
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\ServiceBus.exe
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\ServiceBus.deps.json
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\ServiceBus.runtimeconfig.json
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\ServiceBus.dll
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\ServiceBus.pdb
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\Azure.Core.dll
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\Azure.Core.Amqp.dll
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Azure Repo\ServiceBus\SendMessage\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.csproj.AssemblyReference.cache
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.AssemblyInfoInputs.cache
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.AssemblyInfo.cs
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.csproj.CoreCompileInputs.cache
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.csproj.CopyComplete
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.dll
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\refint\ServiceBus.dll
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.pdb
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ServiceBus.genruntimeconfig.cache
+E:\Azure Repo\ServiceBus\SendMessage\obj\Debug\net6.0\ref\ServiceBus.dll

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UwTOv3Lk7NKY99T+H/N2xp/zRK6L4SoYwJ/JdutddpJzhmO1nYUpUGV8fcYKUtPLK3xsUIfRweNcrl4PT0q8w==",
+  "success": true,
+  "projectFilePath": "E:\\Azure Repo\\ServiceBus\\ReceiveMessage\\Service Bus-Receive\\Service Bus-Receive\\Service Bus-Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikunj\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\azure.messaging.servicebus\\7.10.0\\azure.messaging.servicebus.7.10.0.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\microsoft.azure.amqp\\2.5.10\\microsoft.azure.amqp.2.5.10.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Nikunj\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
