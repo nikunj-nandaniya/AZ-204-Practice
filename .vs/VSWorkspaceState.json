@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Azure AD Authentication with Swagger UI",
+    "\\AzureStorageAccount",
+    "\\AzureStorageAccount\\Queue Service",
+    "\\AzureStorageAccount\\Queue Service\\StorageQueueFunction",
+    "\\AzureStorageAccount\\Table Service",
+    "\\AzureStorageAccount\\Table Service\\TableService",
+    "\\AzureStorageAccount\\Table Service\\TableService\\TableService",
     "\\ServiceBus"
   ],
-  "SelectedNode": "\\ServiceBus\\Program.cs",
+  "SelectedNode": "\\AzureStorageAccount\\Queue Service\\StorageQueueFunction\\Function1.cs",
   "PreviewInSolutionExplorer": false
 }

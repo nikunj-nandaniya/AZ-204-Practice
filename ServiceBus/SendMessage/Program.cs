@@ -19,7 +19,11 @@ namespace AzureServiceQueue
                 new Order() {OrderID="2",Quantity=15,UnitPrice=10.99m },
                 new Order() {OrderID="3",Quantity=20,UnitPrice=11.99m},
                 new Order() {OrderID="4",Quantity=25,UnitPrice=12.99m},
-                new Order() {OrderID="5",Quantity=30,UnitPrice=13.99m }
+                new Order() {OrderID="5",Quantity=30,UnitPrice=13.99m },
+                new Order() {OrderID="6",Quantity=30,UnitPrice=13.99m },
+                new Order() {OrderID="7",Quantity=30,UnitPrice=13.99m },
+                new Order() {OrderID="8",Quantity=30,UnitPrice=13.99m },
+                new Order() {OrderID="9",Quantity=30,UnitPrice=13.99m }
             };
 
             ServiceBusClient _client = new ServiceBusClient(connection_string);

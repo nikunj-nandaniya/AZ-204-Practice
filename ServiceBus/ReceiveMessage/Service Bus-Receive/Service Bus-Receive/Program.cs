@@ -1,7 +1,5 @@
 ﻿using Azure.Messaging.ServiceBus;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+using Microsoft.ServiceBus.Messaging;
 
 namespace ServiceBus_Queue_Receive
 {
@@ -20,6 +18,9 @@ namespace ServiceBus_Queue_Receive
             //ServiceBusReceiver _receiver = _client.CreateReceiver(queue_name, new ServiceBusReceiverOptions() { ReceiveMode = ServiceBusReceiveMode.PeekLock });
 
             var _messgaes = _receiver.ReceiveMessagesAsync(200000);
+            
+            var options = new OnMessageOptions { MaxConcurrentCalls = 50 };
+            
 
             foreach (var _message in _messgaes.Result)
             {

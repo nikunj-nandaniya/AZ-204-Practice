@@ -1,0 +1,7 @@
+E:\Azure Repo\Managed Identity Demo\Managed Identity\obj\Debug\net6.0\Managed Identity.csproj.AssemblyReference.cache
+E:\Azure Repo\Managed Identity Demo\Managed Identity\obj\Debug\net6.0\Managed Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Azure Repo\Managed Identity Demo\Managed Identity\obj\Debug\net6.0\Managed Identity.AssemblyInfoInputs.cache
+E:\Azure Repo\Managed Identity Demo\Managed Identity\obj\Debug\net6.0\Managed Identity.AssemblyInfo.cs
+E:\Azure Repo\Managed Identity Demo\Managed Identity\obj\Debug\net6.0\Managed Identity.csproj.CoreCompileInputs.cache
+E:\Azure Repo\Managed Identity Demo\Managed Identity\obj\Debug\net6.0\Managed Identity.MvcApplicationPartsAssemblyInfo.cs
+E:\Azure Repo\Managed Identity Demo\Managed Identity\obj\Debug\net6.0\Managed Identity.MvcApplicationPartsAssemblyInfo.cache

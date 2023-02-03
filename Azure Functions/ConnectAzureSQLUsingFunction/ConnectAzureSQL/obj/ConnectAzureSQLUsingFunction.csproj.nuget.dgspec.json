@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj": {}
+    "F:\\E Drive Backup\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj": {}
   },
   "projects": {
-    "D:\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj": {
+    "F:\\E Drive Backup\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj",
+        "projectUniqueName": "F:\\E Drive Backup\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj",
         "projectName": "ConnectAzureSQLUsingFunction",
-        "projectPath": "D:\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj",
+        "projectPath": "F:\\E Drive Backup\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj",
         "packagesPath": "C:\\Users\\Nikunj\\.nuget\\packages\\",
-        "outputPath": "D:\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\obj\\",
+        "outputPath": "F:\\E Drive Backup\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikunj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -79,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

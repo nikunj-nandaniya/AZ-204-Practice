@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5VwBctGQRVuZ5hI7gm2MLb2Rf30npKDOJbJWwrpRktGRzrRjYueyd8dj/Xt59/kzp3+ZH+YlQkzIfMR/BQydvQ==",
+  "dgSpecHash": "jfA0HU1A14WLKaRFouj1CciEt1O+cVrVwwXcw8krpHsr8thtywfGzyMbCX3w7Q3jkILdc/WJoy/X1XZhjTCqJA==",
   "success": true,
-  "projectFilePath": "D:\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj",
+  "projectFilePath": "F:\\E Drive Backup\\Azure Repo\\Azure Functions\\ConnectAzureSQLUsingFunction\\ConnectAzureSQL\\ConnectAzureSQLUsingFunction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikunj\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\Nikunj\\.nuget\\packages\\azure.data.appconfiguration\\1.2.0\\azure.data.appconfiguration.1.2.0.nupkg.sha512",
@@ -45,7 +45,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.WindowsAzure.ConfigurationManager 3.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'Microsoft.WindowsAzure.ConfigurationManager 3.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.WindowsAzure.ConfigurationManager",
       "targetGraphs": [
         "net6.0"

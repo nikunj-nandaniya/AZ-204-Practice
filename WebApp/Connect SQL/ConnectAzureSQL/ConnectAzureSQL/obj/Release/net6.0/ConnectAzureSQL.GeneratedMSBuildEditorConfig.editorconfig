@@ -5,20 +5,21 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConnectAzureSQL
 build_property.RootNamespace = ConnectAzureSQL
-build_property.ProjectDir = C:\Users\C279655\Source\Repos\AZ-204-Practice\WebApp\Connect SQL\ConnectAzureSQL\ConnectAzureSQL\
+build_property.ProjectDir = E:\Azure Repo\WebApp\Connect SQL\ConnectAzureSQL\ConnectAzureSQL\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\C279655\Source\Repos\AZ-204-Practice\WebApp\Connect SQL\ConnectAzureSQL\ConnectAzureSQL
+build_property.MSBuildProjectDirectory = E:\Azure Repo\WebApp\Connect SQL\ConnectAzureSQL\ConnectAzureSQL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/C279655/Source/Repos/AZ-204-Practice/WebApp/Connect SQL/ConnectAzureSQL/ConnectAzureSQL/Views/Course/Index.cshtml]
+[E:/Azure Repo/WebApp/Connect SQL/ConnectAzureSQL/ConnectAzureSQL/Views/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/C279655/Source/Repos/AZ-204-Practice/WebApp/Connect SQL/ConnectAzureSQL/ConnectAzureSQL/Views/Staging/Index.cshtml]
+[E:/Azure Repo/WebApp/Connect SQL/ConnectAzureSQL/ConnectAzureSQL/Views/Staging/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZ2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

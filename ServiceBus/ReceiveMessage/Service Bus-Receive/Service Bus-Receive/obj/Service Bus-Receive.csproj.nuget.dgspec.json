@@ -42,7 +42,15 @@
           "dependencies": {
             "Azure.Messaging.ServiceBus": {
               "target": "Package",
-              "version": "[7.10.0, )"
+              "version": "[7.11.1, )"
+            },
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "WindowsAzure.ServiceBus": {
+              "target": "Package",
+              "version": "[6.2.2, )"
             }
           },
           "imports": [
@@ -51,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
